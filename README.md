@@ -1,18 +1,6 @@
-<h3 align="left">Estagiário de TI apaixonado por tecnologia, atualmente focado no aprofundamento técnico em C# e Python, sempre em busca de novos desafios que expandam meus horizontes e contribuam para o meu desenvolvimento profissional na área.</h3>
+<h3 align="left">Estagiário de TI, atualmente focado no aprofundamento técnico em C# e Python, sempre em busca de novos desafios que expandam meus horizontes e contribuam para o meu desenvolvimento profissional na área.</h3>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RogerioVaz1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RogerioVaz1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
-###
-
-<h2 align="center">👨‍💻Linguagens:</h2>
+<h2 align="center">👨‍💻Linguagens e tecnologias:</h2>
 
 ###
 
@@ -47,7 +35,7 @@
 </picture>
 
 ## Entre em contato comigo!
-**Email:** [rogeriovazfilho1@gmail.com](mailto:rogeriovazfilho1@gmail.com)  
+**Email:** [rogeriovaz.dev@gmail.com](mailto:rogeriovaz.dev@gmail.com)  
 **LinkedIn:** [Rogério Vaz Filho](https://www.linkedin.com/in/rog%C3%A9rio-vaz-filho/)
 
 
