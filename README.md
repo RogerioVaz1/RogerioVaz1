@@ -34,9 +34,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RogerioVaz1/RogerioVaz1/output/pacman-contribution-graph.svg">
 </picture>
 
-## Entre em contato comigo!
-**Email:** [rogeriovaz.dev@gmail.com](mailto:rogeriovaz.dev@gmail.com)  
-**LinkedIn:** [Rogério Vaz Filho](https://www.linkedin.com/in/rog%C3%A9rio-vaz-filho/)
 
 
-###
